@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muzamil
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java Programming
+- 🌱 I’m currently learning Servlet, JSP
+- 💞️ I’m looking to collaborate my skills to an organization.
 - 📫 How to reach me memonmuzamil175@gmail.com
 
 <!---
