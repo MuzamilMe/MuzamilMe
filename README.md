@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Muzamil
 - 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Servlet, JSP
-- 💞️ I’m looking to collaborate my skills to an organization.
+- 🌱 I’m currently Working on SpringBoot
 - 📫 How to reach me memonmuzamil175@gmail.com
 
 <!---
